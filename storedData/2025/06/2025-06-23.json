@@ -2,12 +2,34 @@
   "date": "2025-06-23",
   "data": [
     {
+      "lastYearRptDt": "6/21/2024",
+      "lastYearEPS": "$4.37",
+      "time": "time-pre-market",
+      "symbol": "FDS",
+      "name": "FactSet Research Systems Inc.",
+      "marketCap": "$17,667,011,327",
+      "fiscalQuarterEnding": "May/2025",
+      "epsForecast": "$4.31",
+      "noOfEsts": "8"
+    },
+    {
+      "lastYearRptDt": "6/20/2024",
+      "lastYearEPS": "$1.02",
+      "time": "time-pre-market",
+      "symbol": "CMC",
+      "name": "Commercial Metals Company",
+      "marketCap": "$5,325,717,194",
+      "fiscalQuarterEnding": "May/2025",
+      "epsForecast": "$0.71",
+      "noOfEsts": "3"
+    },
+    {
       "lastYearRptDt": "6/24/2024",
       "lastYearEPS": "$0.47",
       "time": "time-not-supplied",
       "symbol": "EPAC",
       "name": "Enerpac Tool Group Corp.",
-      "marketCap": "$2,367,296,686",
+      "marketCap": "$2,333,223,190",
       "fiscalQuarterEnding": "May/2025",
       "epsForecast": "$0.47",
       "noOfEsts": "1"
@@ -18,7 +40,7 @@
       "time": "time-not-supplied",
       "symbol": "HIVE",
       "name": "HIVE Digital Technologies Ltd",
-      "marketCap": "$358,144,869",
+      "marketCap": "$327,395,057",
       "fiscalQuarterEnding": "Mar/2025",
       "epsForecast": "($0.11)",
       "noOfEsts": "4"
@@ -29,21 +51,10 @@
       "time": "time-not-supplied",
       "symbol": "NRSN",
       "name": "NeuroSense Therapeutics Ltd.",
-      "marketCap": "$36,462,777",
+      "marketCap": "$35,983,004",
       "fiscalQuarterEnding": "Mar/2025",
       "epsForecast": "",
-      "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "6/24/2024",
-      "lastYearEPS": "($0.30)",
-      "time": "time-not-supplied",
-      "symbol": "MNY",
-      "name": "MoneyHero Limited",
-      "marketCap": "$31,754,963",
-      "fiscalQuarterEnding": "Mar/2025",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "8"
     },
     {
       "lastYearRptDt": "6/24/2024",
@@ -51,7 +62,7 @@
       "time": "time-not-supplied",
       "symbol": "IGC",
       "name": "IGC Pharma, Inc.",
-      "marketCap": "$26,096,892",
+      "marketCap": "$25,953,458",
       "fiscalQuarterEnding": "Mar/2025",
       "epsForecast": "($0.02)",
       "noOfEsts": "1"

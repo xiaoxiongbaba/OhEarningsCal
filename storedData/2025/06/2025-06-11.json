@@ -26,7 +26,7 @@
     {
       "lastYearRptDt": "6/12/2024",
       "lastYearEPS": "$2.66",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "OXM",
       "name": "Oxford Industries, Inc.",
       "marketCap": "$817,729,481",
@@ -36,14 +36,14 @@
     },
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.15",
-      "time": "time-not-supplied",
-      "symbol": "NESR",
-      "name": "National Energy Services Reunited Corp",
-      "marketCap": "$600,286,600",
-      "fiscalQuarterEnding": "Mar/2025",
-      "epsForecast": "$0.20",
-      "noOfEsts": "3"
+      "lastYearEPS": "($0.07)",
+      "time": "time-pre-market",
+      "symbol": "CGNT",
+      "name": "Cognyte Software Ltd.",
+      "marketCap": "$774,248,615",
+      "fiscalQuarterEnding": "Apr/2025",
+      "epsForecast": "",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
@@ -76,7 +76,7 @@
       "marketCap": "$136,408,919",
       "fiscalQuarterEnding": "Apr/2025",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
@@ -98,7 +98,7 @@
       "marketCap": "$83,777,650",
       "fiscalQuarterEnding": "Apr/2025",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "6/12/2024",
