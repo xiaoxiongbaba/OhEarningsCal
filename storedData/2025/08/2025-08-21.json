@@ -2,9 +2,9 @@
   "date": "2025-08-21",
   "data": [
     {
-      "lastYearRptDt": "8/15/2024",
-      "lastYearEPS": "$0.67",
-      "time": "time-pre-market",
+      "eps": "$0.68",
+      "surprise": "-6.85",
+      "time": "time-not-supplied",
       "symbol": "WMT",
       "name": "Walmart Inc.",
       "marketCap": "$818,551,491,081",
@@ -13,8 +13,8 @@
       "noOfEsts": "12"
     },
     {
-      "lastYearRptDt": "8/22/2024",
-      "lastYearEPS": "$0.61",
+      "eps": "$0.61",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "INTU",
       "name": "Intuit Inc.",
@@ -24,9 +24,9 @@
       "noOfEsts": "7"
     },
     {
-      "lastYearRptDt": "8/21/2024",
-      "lastYearEPS": "$0.12",
-      "time": "time-pre-market",
+      "eps": "$0.17",
+      "surprise": "13.33",
+      "time": "time-not-supplied",
       "symbol": "YMM",
       "name": "Full Truck Alliance Co. Ltd.",
       "marketCap": "$115,152,950,649",
@@ -35,8 +35,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "8/22/2024",
-      "lastYearEPS": "$0.37",
+      "eps": "$0.37",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "WDAY",
       "name": "Workday, Inc.",
@@ -46,8 +46,8 @@
       "noOfEsts": "11"
     },
     {
-      "lastYearRptDt": "8/22/2024",
-      "lastYearEPS": "$1.59",
+      "eps": "$1.59",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "ROST",
       "name": "Ross Stores, Inc.",
@@ -57,8 +57,8 @@
       "noOfEsts": "8"
     },
     {
-      "lastYearRptDt": "8/21/2024",
-      "lastYearEPS": "$0.71",
+      "eps": "$0.71",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "ZM",
       "name": "Zoom Communications, Inc.",
@@ -68,8 +68,8 @@
       "noOfEsts": "10"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
+      "eps": "N/A",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "AEG",
       "name": "Aegon Ltd.",
@@ -79,9 +79,9 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "8/22/2024",
-      "lastYearEPS": "($0.17)",
-      "time": "time-pre-market",
+      "eps": "$0.09",
+      "surprise": "12.5",
+      "time": "time-not-supplied",
       "symbol": "BILI",
       "name": "Bilibili Inc.",
       "marketCap": "$10,546,321,300",
@@ -90,9 +90,9 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "8/30/2024",
-      "lastYearEPS": "$0.26",
-      "time": "time-pre-market",
+      "eps": "$0.22",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
       "symbol": "MNSO",
       "name": "MINISO Group Holding Limited",
       "marketCap": "$6,511,832,245",
@@ -101,9 +101,9 @@
       "noOfEsts": "N/A"
     },
     {
-      "lastYearRptDt": "8/22/2024",
-      "lastYearEPS": "$1.35",
-      "time": "time-pre-market",
+      "eps": "$1.33",
+      "surprise": "-1.48",
+      "time": "time-not-supplied",
       "symbol": "MZTI",
       "name": "The Marzetti Company",
       "marketCap": "$4,916,104,080",
@@ -112,9 +112,9 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "8/22/2024",
-      "lastYearEPS": "$2.84",
-      "time": "time-pre-market",
+      "eps": "$3.24",
+      "surprise": "1.57",
+      "time": "time-not-supplied",
       "symbol": "OSIS",
       "name": "OSI Systems, Inc.",
       "marketCap": "$3,750,409,152",
@@ -123,19 +123,19 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "8/27/2024",
-      "lastYearEPS": "$0.06",
-      "time": "time-pre-market",
+      "eps": "($0.01)",
+      "surprise": "-150",
+      "time": "time-not-supplied",
       "symbol": "VNET",
       "name": "VNET Group, Inc.",
       "marketCap": "$2,146,826,690",
       "fiscalQuarterEnding": "Jun/2025",
-      "epsForecast": "$0.01",
+      "epsForecast": "$0.02",
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
+      "eps": "N/A",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "AACT",
       "name": "Ares Acquisition Corporation II",
@@ -145,9 +145,9 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "8/20/2024",
-      "lastYearEPS": "$3.06",
-      "time": "time-pre-market",
+      "eps": "$2.15",
+      "surprise": "23.56",
+      "time": "time-not-supplied",
       "symbol": "NMM",
       "name": "Navios Maritime Partners LP",
       "marketCap": "$1,347,410,820",
@@ -156,9 +156,9 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "8/27/2024",
-      "lastYearEPS": "$0.80",
-      "time": "time-pre-market",
+      "eps": "$1.02",
+      "surprise": "12.09",
+      "time": "time-not-supplied",
       "symbol": "SCSC",
       "name": "ScanSource, Inc.",
       "marketCap": "$960,991,208",
@@ -167,9 +167,9 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "8/20/2024",
-      "lastYearEPS": "($0.11)",
-      "time": "time-pre-market",
+      "eps": "($0.03)",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
       "symbol": "YSG",
       "name": "Yatsen Holding Limited",
       "marketCap": "$876,328,001",
@@ -178,9 +178,9 @@
       "noOfEsts": "N/A"
     },
     {
-      "lastYearRptDt": "8/22/2024",
-      "lastYearEPS": "$9.75",
-      "time": "time-pre-market",
+      "eps": "$1.99",
+      "surprise": "-43.3",
+      "time": "time-not-supplied",
       "symbol": "HOV",
       "name": "Hovnanian Enterprises Inc",
       "marketCap": "$863,642,337",
@@ -189,9 +189,9 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "8/22/2024",
-      "lastYearEPS": "$0.02",
-      "time": "time-pre-market",
+      "eps": "($0.53)",
+      "surprise": "-169.74",
+      "time": "time-not-supplied",
       "symbol": "CSIQ",
       "name": "Canadian Solar Inc.",
       "marketCap": "$853,762,886",
@@ -200,8 +200,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "8/27/2024",
-      "lastYearEPS": "($0.56)",
+      "eps": "($0.56)",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "OCS",
       "name": "Oculis Holding AG",
@@ -211,9 +211,9 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "8/15/2024",
-      "lastYearEPS": "$0.19",
-      "time": "time-pre-market",
+      "eps": "$0.26",
+      "surprise": "52.94",
+      "time": "time-not-supplied",
       "symbol": "LYTS",
       "name": "LSI Industries Inc.",
       "marketCap": "$579,086,078",
@@ -222,9 +222,9 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "8/07/2024",
-      "lastYearEPS": "N/A",
-      "time": "time-pre-market",
+      "eps": "$0.06",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
       "symbol": "DDL",
       "name": "Dingdong (Cayman) Limited",
       "marketCap": "$548,048,229",
@@ -233,19 +233,41 @@
       "noOfEsts": "N/A"
     },
     {
-      "lastYearRptDt": "9/13/2024",
-      "lastYearEPS": "($0.18)",
-      "time": "time-pre-market",
+      "eps": "$0.57",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "YRD",
+      "name": "Yiren Digital Ltd.",
+      "marketCap": "$503,749,802",
+      "fiscalQuarterEnding": "Jun/2025",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "eps": "($0.17)",
+      "surprise": "5.56",
+      "time": "time-not-supplied",
       "symbol": "SLQT",
       "name": "SelectQuote, Inc.",
       "marketCap": "$316,079,920",
       "fiscalQuarterEnding": "Jun/2025",
-      "epsForecast": "($0.17)",
+      "epsForecast": "($0.18)",
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.36",
+      "eps": "($0.15)",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "OCFT",
+      "name": "OneConnect Financial Technology Co., Ltd.",
+      "marketCap": "$286,255,266",
+      "fiscalQuarterEnding": "Jun/2025",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "eps": "$0.36",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "GHG",
       "name": "GreenTree Hospitality Group Ltd.",
@@ -255,8 +277,30 @@
       "noOfEsts": "N/A"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.16)",
+      "eps": "$0.10",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "TWIN",
+      "name": "Twin Disc, Incorporated",
+      "marketCap": "$121,952,838",
+      "fiscalQuarterEnding": "Jun/2025",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "eps": "$0.35",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "CATO",
+      "name": "Cato Corporation (The)",
+      "marketCap": "$56,053,100",
+      "fiscalQuarterEnding": "Jul/2025",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "eps": "($0.16)",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "TPCS",
       "name": "TechPrecision Corporation",
@@ -266,8 +310,19 @@
       "noOfEsts": "N/A"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
+      "eps": "($0.03)",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "AXIL",
+      "name": "AXIL Brands, Inc.",
+      "marketCap": "$50,871,368",
+      "fiscalQuarterEnding": "May/2025",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "eps": "N/A",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "HOVR",
       "name": "New Horizon Aircraft Ltd.",
@@ -277,8 +332,19 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
+      "eps": "$0.23",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "BOSC",
+      "name": "B.O.S. Better Online Solutions",
+      "marketCap": "$29,084,675",
+      "fiscalQuarterEnding": "Jun/2025",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "eps": "N/A",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "CEPO",
       "name": "Cantor Equity Partners I, Inc.",
@@ -288,8 +354,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.97",
+      "eps": "$0.97",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "CTRM",
       "name": "Castor Maritime Inc.",
@@ -299,8 +365,8 @@
       "noOfEsts": "N/A"
     },
     {
-      "lastYearRptDt": "8/08/2024",
-      "lastYearEPS": "($0.33)",
+      "eps": "($0.33)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "CMBM",
       "name": "Cambium Networks Corporation",
@@ -310,8 +376,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
+      "eps": "N/A",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "ADVB",
       "name": "Advanced Biomed Inc.",
@@ -321,8 +387,8 @@
       "noOfEsts": "N/A"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.24)",
+      "eps": "($0.24)",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "YJ",
       "name": "Yunji Inc.",
@@ -332,8 +398,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
+      "eps": "N/A",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "MKZR",
       "name": "MacKenzie Realty Capital, Inc.",
@@ -343,8 +409,8 @@
       "noOfEsts": "N/A"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.02",
+      "eps": "$0.02",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "HIHO",
       "name": "Highway Holdings Limited",
@@ -354,8 +420,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($9.60)",
+      "eps": "($9.60)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "PRFX",
       "name": "PainReform Ltd.",
@@ -365,8 +431,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($3.57)",
+      "eps": "($3.57)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "SCNI",
       "name": "Scinai Immunotherapeutics Ltd.",
