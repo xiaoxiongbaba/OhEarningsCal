@@ -2,26 +2,26 @@
   "date": "2025-10-13",
   "data": [
     {
-      "eps": "$0.26",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$0.29",
+      "surprise": "-3.33",
+      "time": "time-not-supplied",
       "symbol": "FAST",
       "name": "Fastenal Company",
-      "marketCap": "$52,538,804,326",
+      "marketCap": "$48,579,457,998",
       "fiscalQuarterEnding": "Sep/2025",
       "epsForecast": "$0.30",
       "noOfEsts": "6"
     },
     {
-      "eps": "($0.11)",
+      "eps": "($0.09)",
       "surprise": "N/A",
-      "time": "time-after-hours",
+      "time": "time-not-supplied",
       "symbol": "RMCF",
       "name": "Rocky Mountain Chocolate Factory, Inc.",
-      "marketCap": "$12,587,187",
+      "marketCap": "$13,171,732",
       "fiscalQuarterEnding": "Aug/2025",
       "epsForecast": "",
-      "noOfEsts": "6"
+      "noOfEsts": "N/A"
     }
   ]
 }
