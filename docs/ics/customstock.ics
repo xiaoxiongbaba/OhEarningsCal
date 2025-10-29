@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:DMwMmCa3o-SU7Fm1SM-BR
+UID:b2yN9N5VZqcW5AWweyvI4
 SUMMARY:台积电 发布财报
-DTSTAMP:20251028T165018Z
+DTSTAMP:20251029T044704Z
 DTSTART;VALUE=DATE:20251016
 DESCRIPTION:财务季度：Sep/2025。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $2.59，当前市值: $1\
 	,555\,134\,146\,936。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ChJwOf1ynQArcTGyJe6cH
+UID:Ii7k7GjqOxCvJeHZqv6px
 SUMMARY:Coinbase 盘后发布财报
-DTSTAMP:20251028T165018Z
+DTSTAMP:20251029T044704Z
 DTSTART;VALUE=DATE:20251030
 DESCRIPTION:财务季度：Sep/2025。\n代码：COIN，公司：Coinbase，行业: 金融科技。\n预计每股收益: $1.06，当前
 	市值: $92\,865\,158\,085。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=COIN
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:kqgQ0MRpJ4OMwI5IRAkTX
+UID:V0hH7dOjC50wrGJK6bg0w
 SUMMARY:Cloudflare 盘后发布财报
-DTSTAMP:20251028T165018Z
+DTSTAMP:20251029T044704Z
 DTSTART;VALUE=DATE:20251030
 DESCRIPTION:财务季度：Sep/2025。\n代码：NET，公司：Cloudflare，行业: 云计算。\n预计每股收益: ($0.03)，
 	当前市值: $78\,446\,690\,050。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NE
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1bKBY8tnAgW1UXP8dWduH
+UID:uFgYXsd6-F5PfkEmrFmNS
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20251028T165018Z
+DTSTAMP:20251029T044704Z
 DTSTART;VALUE=DATE:20251030
 DESCRIPTION:财务季度：Sep/2025。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: ，当前市值: $22\,816\
 	,111\,386。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：https:
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wCZUCW8joX4tLE2jEWQjz
+UID:110q58RJGuniNixBZagDd
 SUMMARY:Shopify 盘前发布财报
-DTSTAMP:20251028T165018Z
+DTSTAMP:20251029T044704Z
 DTSTART;VALUE=DATE:20251104
 DESCRIPTION:财务季度：Sep/2025。\n代码：SHOP，公司：Shopify，行业: 电子商务。\n预计每股收益: $0.24，当前市
 	值: $227\,642\,554\,904。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SHOP
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:jx6M1I-LKeeAJTw-vVree
+UID:D25yybenFiaJvk0pli9d2
 SUMMARY:Super Micro Computer 盘后发布财报
-DTSTAMP:20251028T165018Z
+DTSTAMP:20251029T044704Z
 DTSTART;VALUE=DATE:20251104
 DESCRIPTION:财务季度：Sep/2025。\n代码：SMCI，公司：Super Micro Computer，行业: 计算机硬件。\n预计每
 	股收益: $0.32，当前市值: $30\,646\,674\,494。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:y3RGeSQgFvDPLCl-03BF_
+UID:fITbYJrCRZtZxylbOdogl
 SUMMARY:Novo Nordisk 盘前发布财报
-DTSTAMP:20251028T165018Z
+DTSTAMP:20251029T044704Z
 DTSTART;VALUE=DATE:20251105
 DESCRIPTION:财务季度：Sep/2025。\n代码：NVO，公司：Novo Nordisk，行业: 制药。\n预计每股收益: $0.75，当
 	前市值: $236\,153\,850\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NV
@@ -118,9 +118,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:kU3hDWZBEPU4Vrgbz38Ys
+UID:KkqhPkQfvYhBwnq2U8OAz
 SUMMARY:Arm 盘后发布财报
-DTSTAMP:20251028T165018Z
+DTSTAMP:20251029T044704Z
 DTSTART;VALUE=DATE:20251105
 DESCRIPTION:财务季度：Sep/2025。\n代码：ARM，公司：Arm，行业: 半导体。\n预计每股收益: $0.14，当前市值: $18
 	9\,205\,735\,501。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ARM \n在富途查
@@ -134,9 +134,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:-VA_BujXGlqUaT0ETCuSn
+UID:X3Qsuz7TJyM4wMmvXEOvU
 SUMMARY:Unity 盘前发布财报
-DTSTAMP:20251028T165018Z
+DTSTAMP:20251029T044704Z
 DTSTART;VALUE=DATE:20251105
 DESCRIPTION:财务季度：Sep/2025。\n代码：U，公司：Unity，行业: 软件。\n预计每股收益: ($0.02)，当前市值: $1
 	6\,550\,025\,673。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=U \n在富途查看：
@@ -150,9 +150,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:zblfu_DKZ7DBtm3kODaCG
+UID:GXDGntxvygMGeYwg6YFXn
 SUMMARY:京东 发布财报
-DTSTAMP:20251028T165018Z
+DTSTAMP:20251029T044704Z
 DTSTART;VALUE=DATE:20251113
 DESCRIPTION:财务季度：Sep/2025。\n代码：JD，公司：京东，行业: 电子商务。\n预计每股收益: $0.34，当前市值: $49\
 	,702\,670\,977。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JD \n在富途查看：h
@@ -166,9 +166,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:6FQ-tR_U16ey2r-R7tFZx
+UID:C_Q1qgzHvVDpZMagVvKt0
 SUMMARY:索尼 发布财报
-DTSTAMP:20251028T165018Z
+DTSTAMP:20251029T044704Z
 DTSTART;VALUE=DATE:20251114
 DESCRIPTION:财务季度：Sep/2025。\n代码：SONY，公司：索尼，行业: 消费电子。\n预计每股收益: $0.33，当前市值: $1
 	72\,917\,565\,867。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SONY \n在富
@@ -182,9 +182,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Tf60sXr6k0_J7rk1Rkmto
+UID:9wa2cfctpDPHOR2hPkR8y
 SUMMARY:百度 盘前发布财报
-DTSTAMP:20251028T165018Z
+DTSTAMP:20251029T044704Z
 DTSTART;VALUE=DATE:20251118
 DESCRIPTION:财务季度：Sep/2025。\n代码：BIDU，公司：百度，行业: 互联网。\n预计每股收益: $0.94，当前市值: $44
 	\,229\,563\,479。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BIDU \n在富途查
@@ -198,9 +198,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Et82fthqhJwiH7docmnJx
+UID:gCyALXiUCI3LQYzGkwI3n
 SUMMARY:小鹏汽车 发布财报
-DTSTAMP:20251028T165018Z
+DTSTAMP:20251029T044704Z
 DTSTART;VALUE=DATE:20251118
 DESCRIPTION:财务季度：Sep/2025。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $21\,87
 	4\,162\,534。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：ht
@@ -214,9 +214,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4AYWa6ksAt8AxVtvtnc1_
+UID:SyWQqts-LuQ-yUxsqDsj_
 SUMMARY:蔚来 发布财报
-DTSTAMP:20251028T165018Z
+DTSTAMP:20251029T044704Z
 DTSTART;VALUE=DATE:20251119
 DESCRIPTION:财务季度：Sep/2025。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.24)，当前市值: $15
 	\,811\,773\,810。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看
@@ -230,9 +230,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:faVmOz1H9C_KBBtRFelO4
+UID:6pIEX-m25sr_e9ssJou7n
 SUMMARY:拼多多 发布财报
-DTSTAMP:20251028T165018Z
+DTSTAMP:20251029T044704Z
 DTSTART;VALUE=DATE:20251120
 DESCRIPTION:财务季度：Sep/2025。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $1.99，当前市值: $1
 	95\,570\,496\,605。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
@@ -246,9 +246,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4jciq3bvH_pbEXXWJJLGa
+UID:T-fgqE9NT9QsRfzLe4W2e
 SUMMARY:阿里巴巴 发布财报
-DTSTAMP:20251028T165018Z
+DTSTAMP:20251029T044704Z
 DTSTART;VALUE=DATE:20251121
 DESCRIPTION:财务季度：Sep/2025。\n代码：BABA，公司：阿里巴巴，行业: 电子商务。\n预计每股收益: $0.49，当前市值: 
 	$414\,400\,199\,815。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
