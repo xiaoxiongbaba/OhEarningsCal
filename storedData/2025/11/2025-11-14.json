@@ -219,7 +219,7 @@
       "marketCap": "$95,534,344",
       "fiscalQuarterEnding": "Sep/2025",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "11/08/2024",
@@ -263,7 +263,7 @@
       "marketCap": "$71,637,737",
       "fiscalQuarterEnding": "Sep/2025",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "11/13/2024",
@@ -373,18 +373,7 @@
       "marketCap": "$20,647,739",
       "fiscalQuarterEnding": "Sep/2025",
       "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.23)",
-      "time": "time-not-supplied",
-      "symbol": "NXL",
-      "name": "Nexalin Technology, Inc.",
-      "marketCap": "$20,378,977",
-      "fiscalQuarterEnding": "Sep/2025",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "11/13/2024",
@@ -417,7 +406,7 @@
       "marketCap": "$10,081,340",
       "fiscalQuarterEnding": "Sep/2025",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "11/12/2024",
@@ -433,24 +422,13 @@
     {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "N/A",
-      "time": "time-pre-market",
-      "symbol": "MITQ",
-      "name": "Moving iMage Technologies, Inc.",
-      "marketCap": "$6,905,673",
-      "fiscalQuarterEnding": "Sep/2025",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
       "time": "time-not-supplied",
       "symbol": "GIG",
       "name": "GigCapital7 Corp.",
       "marketCap": "$6,162,500",
       "fiscalQuarterEnding": "Sep/2025",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "11/14/2024",
@@ -483,7 +461,7 @@
       "marketCap": "$2,252,700",
       "fiscalQuarterEnding": "Sep/2025",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     }
   ]
 }
