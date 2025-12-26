@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:3ZTBi0v9A84KjPFIJMDMR
+UID:0AVTSyLWMpA6Vqze9-lWL
 SUMMARY:赛富时 发布财报
-DTSTAMP:20251225T164927Z
+DTSTAMP:20251226T045347Z
 DTSTART;VALUE=DATE:20251203
 DESCRIPTION:财务季度：Oct/2025。\n代码：CRM，公司：赛富时，行业: 云端服务。\n预计每股收益: $2.15，当前市值: $2
 	27\,261\,440\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CRM \n在富途
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:r6D0LE6XMtgBJ_f7fwsJm
+UID:vSWbNjDJji66T2blfWkv1
 SUMMARY:耐克 发布财报
-DTSTAMP:20251225T164927Z
+DTSTAMP:20251226T045347Z
 DTSTART;VALUE=DATE:20251218
 DESCRIPTION:财务季度：Nov/2025。\n代码：NKE，公司：耐克，行业: 服装。\n预计每股收益: $0.37，当前市值: $97\,
 	014\,355\,454。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NKE \n在富途查看：h
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Sa1XMwngL3aFLNs19jolt
+UID:rgttMaYhjlRXzDx7fIumm
 SUMMARY:摩根大通 盘前发布财报
-DTSTAMP:20251225T164927Z
+DTSTAMP:20251226T045347Z
 DTSTART;VALUE=DATE:20260113
 DESCRIPTION:财务季度：Dec/2025。\n代码：JPM，公司：摩根大通，行业: 银行。\n预计每股收益: $4.97，当前市值: $88
 	7\,266\,949\,809。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JPM \n在富途查
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:s-BxaF7Awtv0oJuPY2V1M
+UID:HW9oyIGJ5d5jlUtx5v6Gv
 SUMMARY:高盛 盘前发布财报
-DTSTAMP:20251225T164927Z
+DTSTAMP:20251226T045347Z
 DTSTART;VALUE=DATE:20260115
 DESCRIPTION:财务季度：Dec/2025。\n代码：GS，公司：高盛，行业: 银行、金融服务。\n预计每股收益: $11.64，当前市值: 
 	$270\,448\,537\,654。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GS \n在富
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:NusFxx5T5lzk91TqO7bDw
+UID:dNPOh6nmKfgWdbfprt1yH
 SUMMARY:3M 发布财报
-DTSTAMP:20251225T164927Z
+DTSTAMP:20251226T045347Z
 DTSTART;VALUE=DATE:20260120
 DESCRIPTION:财务季度：Dec/2025。\n代码：MMM，公司：3M，行业: 综合企业。\n预计每股收益: $1.83，当前市值: $85
 	\,075\,691\,437。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MMM \n在富途查看
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:uQg-rCzdkrsnsNAW5Af1O
+UID:RiJ48isifI2O-3PXUFUHo
 SUMMARY:强生 盘前发布财报
-DTSTAMP:20251225T164927Z
+DTSTAMP:20251226T045347Z
 DTSTART;VALUE=DATE:20260121
 DESCRIPTION:财务季度：Dec/2025。\n代码：JNJ，公司：强生，行业: 制药。\n预计每股收益: $2.53，当前市值: $495\
 	,784\,746\,090。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JNJ \n在富途查看：
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ZvHhY5uNiMtUfK3C0cUA0
+UID:sGNmYG6ahqCMFSL5ejTyG
 SUMMARY:旅行者保险 盘前发布财报
-DTSTAMP:20251225T164927Z
+DTSTAMP:20251226T045347Z
 DTSTART;VALUE=DATE:20260121
 DESCRIPTION:财务季度：Dec/2025。\n代码：TRV，公司：旅行者保险，行业: 保险。\n预计每股收益: $8.34，当前市值: $6
 	5\,237\,126\,936。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TRV \n在富途查
@@ -118,9 +118,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Va8ewlV_vxAUHrV1loy92
+UID:IlluGYcw1mCYbWBnwuh3p
 SUMMARY:宝洁 盘前发布财报
-DTSTAMP:20251225T164927Z
+DTSTAMP:20251226T045347Z
 DTSTART;VALUE=DATE:20260122
 DESCRIPTION:财务季度：Dec/2025。\n代码：PG，公司：宝洁，行业: 消费品。\n预计每股收益: $1.87，当前市值: $334\
 	,573\,509\,546。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PG \n在富途查看：h
@@ -134,9 +134,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:DcvqEx2dkzkcc2Q5Jrfmc
+UID:jYyjFnncFeaGKfl4Rm2fr
 SUMMARY:威瑞森 发布财报
-DTSTAMP:20251225T164927Z
+DTSTAMP:20251226T045347Z
 DTSTART;VALUE=DATE:20260123
 DESCRIPTION:财务季度：Dec/2025。\n代码：VZ，公司：威瑞森，行业: 电信。\n预计每股收益: $1.06，当前市值: $168\
 	,319\,705\,521。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=VZ \n在富途查看：h
