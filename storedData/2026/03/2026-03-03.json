@@ -383,8 +383,8 @@
       "name": "The York Water Company",
       "marketCap": "$484,716,554",
       "fiscalQuarterEnding": "Dec/2025",
-      "epsForecast": "$0.32",
-      "noOfEsts": "1"
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "3/04/2025",
@@ -450,7 +450,7 @@
       "marketCap": "$369,945,906",
       "fiscalQuarterEnding": "Dec/2025",
       "epsForecast": "$0.31",
-      "noOfEsts": "3"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "3/04/2025",
@@ -516,7 +516,7 @@
       "marketCap": "$307,968,388",
       "fiscalQuarterEnding": "Dec/2025",
       "epsForecast": "$0.30",
-      "noOfEsts": "3"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "3/04/2025",
@@ -614,8 +614,8 @@
       "name": "Modiv Industrial, Inc.",
       "marketCap": "$157,412,954",
       "fiscalQuarterEnding": "Dec/2025",
-      "epsForecast": "$0.34",
-      "noOfEsts": "2"
+      "epsForecast": "$0.37",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
